@@ -1,2 +1,2 @@
-# Chtabot_Stock_Optimization
+# Chatbot_Stock_Optimization
 IBM Watson Chatbot Portfolio optimization
